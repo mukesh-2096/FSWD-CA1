@@ -35,7 +35,7 @@ app.get('/signup', (req, res) => {
 
     }
 
-    res.send("Signup successful!");
+    res.send("Password reset successful!");
 });
 
 const PORT = 3000;
